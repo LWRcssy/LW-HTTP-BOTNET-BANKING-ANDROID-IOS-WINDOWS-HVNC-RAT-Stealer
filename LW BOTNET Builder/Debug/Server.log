@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\filipe\desktop\work boot\nova server\bot 2.0\server\server\header.h(19): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h(215): note: see previous definition of '_WIN32_WINNT'
+c:\users\filipe\desktop\work boot\nova server\bot 2.0\server\server\encypth.h(100): warning C4101: 'ddr': unreferenced local variable
+c:\users\filipe\desktop\work boot\nova server\bot 2.0\server\server\encypth.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\filipe\desktop\work boot\nova server\bot 2.0\server\server\encypth.h(156): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> C:\Users\Filipe\Desktop\Work Boot\Nova server\Bot 2.0\Server\Debug\Server.exe
